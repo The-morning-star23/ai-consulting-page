@@ -16,13 +16,17 @@
 - **Performance:** Optimized assets and minimal bundle size via Vite
 
 ## 🤖 AI Development Log
-- **Tools Used:** Gemini / ChatGPT
-- **Time Saved:** AI saved ~3 hours by generating Tailwind configs and streamlining form logic, allowing more focus on UI polish and responsiveness
+- **Tools Used:** Gemini
+- **How AI Helped:**
+  - Gemini was used to architect the component structure and generate Tailwind CSS responsive utility classes for the layout.
+  - This approach saved approximately 3 hours by automating boilerplate setup and ensuring error-free mobile responsiveness from the first build.
 
 ---
 
 ## 🛠️ Getting Started
 1. **Clone the repository**
+https://github.com/The-morning-star23/ai-consulting-page.git
+
 2. **Install dependencies:**
    ```bash
    npm install
